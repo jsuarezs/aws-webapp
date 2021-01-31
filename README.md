@@ -22,7 +22,7 @@ Deploying EC2, VPC, NAT, IG, RDS, ALB and ASG for webapp purposes.
      
 ## How to deploy it
 
-* There's already the user terraform present in the Account so I've already sent to you terraform user keys by email.
+There's already the user terraform present in the Account so I've already sent to you terraform user keys by email.
 
 * Test it with: ````terraform validate````
 * Plan the infrastructure: ````terraform plan````
