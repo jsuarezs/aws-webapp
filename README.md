@@ -8,7 +8,6 @@ Deploying EC2, VPC, NAT, IG, RDS, ALB and ASG for webapp purposes.
    - Automated deployment of a WebApp as follows:
    
      * Use Hashicorp 3.51.0 version which is the latest one.
-     * Use "terraform" as service account to use with Terraform (find "terraform.tfvars" in this repository).
      * IaC in Ireland (eu-west1-1) for this App to work.
           * VPC using 4 subnets for HA purposes: 2 private & 2 public.
             * Private subnets for BBDD servers and public subnets for web servers.
